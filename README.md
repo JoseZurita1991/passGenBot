@@ -3,6 +3,8 @@ Bot de Telegram creado a partir de [passGenerator](https://github.com/JoseZurita
 
 Prueba de concepto para explorar la creación de un Bot a partir de una idea ya programada en Python.
 
+**No se recomienda el uso de las contraseñas generadas.**
+
 ### Funcionalidad:
 Genera contraseñas según una longitud dada por el usuario a través de la app de mensajería Telegram.
 
